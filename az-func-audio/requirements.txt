@@ -1,5 +1,5 @@
 openai==1.72.0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 requests
 reportlab==4.2.5
 azure-functions==1.23.0
